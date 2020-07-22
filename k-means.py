@@ -1,4 +1,5 @@
 import numpy as np
+
 class k_means():
     def __init__(self,data,k):
         self.data=data
